@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.8.12",
+    "heartbeatAt": "2023-11-05T18:01:42.682076",
+    "startedAt": "2023-11-05T18:01:42.088787",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Documents/GPT_Agents/AI Cource/Lab_2_fine_tune_generative_ai_model.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/vogho/Documents/GPT_Agents",
+    "git": {
+        "remote": "https://github.com/voghoei/GPT_Agents.git",
+        "commit": "1e06d6a23ed107d42359e0946be7927ad1468cc9"
+    },
+    "email": "voghoei@uga.edu",
+    "host": "DESKTOP-492NP19",
+    "username": "vogho",
+    "executable": "C:\\Users\\vogho\\anaconda3\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 800.0,
+        "min": 0.0,
+        "max": 2901.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 800.0,
+            "min": 0.0,
+            "max": 2901.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1907.0000534057617,
+            "used": 328.78589248657227
+        }
+    },
+    "memory": {
+        "total": 127.670166015625
+    }
+}
